@@ -7,7 +7,7 @@ Cada proceso explora su rama con backtracking y comunica el resultado. Cuando se
 Añade aquí los comandos para ejecutar `--id` y `--all` con el contenedor. Incluye `--allow-run-as-root --use-hwthread-cpus --oversubscribe` en `mpiexec`, como en la calibración. Compara el tiempo total de `--all` con la versión secuencial y registra los resultados en `../INFORME.md`.
 
 
-## Implementacion
+## Implementación 
 
 Los tableros se resuelven en orden, uno por uno. Para cada tablero, el coordinador llena las 3 primeras casillas vacías con todos los valores posibles; cada combinación es un camino distinto (una rama), y las ramas se reparten entre los procesos. El primero que encuentra la solución les avisa a los demás para que dejen de buscar, y solo entonces se pasa al siguiente tablero.
 

@@ -7,7 +7,7 @@ Registra el tiempo total de los 30 IDs y explica cómo elegiste el tamaño de lo
 
 ---
 
-## Implementacion y cómo funciona
+## Implementación y cómo funciona
 
 Los 8 procesos se dividen en grupos, y los tableros se reparten por turnos entre los grupos. Dentro de cada grupo, cada tablero se resuelve como en la versión por ramas: los procesos del grupo se reparten los caminos posibles y el primero que encuentra la solución avisa a sus compañeros.
 

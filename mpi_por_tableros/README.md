@@ -6,7 +6,7 @@ Registra el tiempo total de ejecución y confirma que se procesaron los 30 IDs. 
 
 ---
 
-## Implementacion 
+## Implementación 
 
 El proceso coordinador lee los 30 tableros y los reparte por turnos entre los procesos. Cada proceso resuelve sus tableros con el mismo resolvedor de `sudoku.py`, y al final le devuelve los resultados al coordinador, que los muestra junto con el tiempo total.
 
