@@ -1,0 +1,124 @@
+
+ID: 1
+Resuelto
+Tiempo parcial: 1.093758 segundos (grupo 0)
+
+ID: 2
+Resuelto
+Tiempo parcial: 2.297886 segundos (grupo 1)
+
+ID: 3
+Resuelto
+Tiempo parcial: 2.250138 segundos (grupo 2)
+
+ID: 4
+Resuelto
+Tiempo parcial: 0.821228 segundos (grupo 3)
+
+ID: 5
+Resuelto
+Tiempo parcial: 0.668985 segundos (grupo 0)
+
+ID: 6
+Resuelto
+Tiempo parcial: 2.094680 segundos (grupo 1)
+
+ID: 7
+Resuelto
+Tiempo parcial: 0.649674 segundos (grupo 2)
+
+ID: 8
+Resuelto
+Tiempo parcial: 4.465202 segundos (grupo 3)
+
+ID: 9
+Resuelto
+Tiempo parcial: 1.624294 segundos (grupo 0)
+
+ID: 10
+Resuelto
+Tiempo parcial: 1.517826 segundos (grupo 1)
+
+ID: 11
+Resuelto
+Tiempo parcial: 1.115817 segundos (grupo 2)
+
+ID: 12
+Resuelto
+Tiempo parcial: 1.247497 segundos (grupo 3)
+
+ID: 13
+Resuelto
+Tiempo parcial: 0.745217 segundos (grupo 0)
+
+ID: 14
+Resuelto
+Tiempo parcial: 1.179877 segundos (grupo 1)
+
+ID: 15
+Resuelto
+Tiempo parcial: 0.912409 segundos (grupo 2)
+
+ID: 16
+Resuelto
+Tiempo parcial: 1.434793 segundos (grupo 3)
+
+ID: 17
+Resuelto
+Tiempo parcial: 2.240678 segundos (grupo 0)
+
+ID: 18
+Resuelto
+Tiempo parcial: 1.871196 segundos (grupo 1)
+
+ID: 19
+Resuelto
+Tiempo parcial: 0.702632 segundos (grupo 2)
+
+ID: 20
+Resuelto
+Tiempo parcial: 0.272305 segundos (grupo 3)
+
+ID: 21
+Resuelto
+Tiempo parcial: 1.466811 segundos (grupo 0)
+
+ID: 22
+Resuelto
+Tiempo parcial: 1.237622 segundos (grupo 1)
+
+ID: 23
+Resuelto
+Tiempo parcial: 1.109890 segundos (grupo 2)
+
+ID: 24
+Resuelto
+Tiempo parcial: 0.959192 segundos (grupo 3)
+
+ID: 25
+Resuelto
+Tiempo parcial: 0.635618 segundos (grupo 0)
+
+ID: 26
+Resuelto
+Tiempo parcial: 0.654879 segundos (grupo 1)
+
+ID: 27
+Resuelto
+Tiempo parcial: 0.679691 segundos (grupo 2)
+
+ID: 28
+Resuelto
+Tiempo parcial: 0.647243 segundos (grupo 3)
+
+ID: 29
+Resuelto
+Tiempo parcial: 1.489347 segundos (grupo 0)
+
+ID: 30
+Resuelto
+Tiempo parcial: 0.897833 segundos (grupo 1)
+
+IDs procesados: 30
+Procesos: 8, tamaño de grupo: 2, grupos: 4
+Tiempo total (real): 11.751898 segundos

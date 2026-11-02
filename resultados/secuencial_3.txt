@@ -1,0 +1,122 @@
+
+ID: 1
+Resuelto
+Tiempo parcial: 1.572112 segundos
+
+ID: 2
+Resuelto
+Tiempo parcial: 1.946052 segundos
+
+ID: 3
+Resuelto
+Tiempo parcial: 2.979196 segundos
+
+ID: 4
+Resuelto
+Tiempo parcial: 1.112389 segundos
+
+ID: 5
+Resuelto
+Tiempo parcial: 1.308383 segundos
+
+ID: 6
+Resuelto
+Tiempo parcial: 1.602013 segundos
+
+ID: 7
+Resuelto
+Tiempo parcial: 0.829506 segundos
+
+ID: 8
+Resuelto
+Tiempo parcial: 2.833791 segundos
+
+ID: 9
+Resuelto
+Tiempo parcial: 1.092320 segundos
+
+ID: 10
+Resuelto
+Tiempo parcial: 1.968372 segundos
+
+ID: 11
+Resuelto
+Tiempo parcial: 1.064758 segundos
+
+ID: 12
+Resuelto
+Tiempo parcial: 1.071105 segundos
+
+ID: 13
+Resuelto
+Tiempo parcial: 0.866106 segundos
+
+ID: 14
+Resuelto
+Tiempo parcial: 0.968192 segundos
+
+ID: 15
+Resuelto
+Tiempo parcial: 1.351054 segundos
+
+ID: 16
+Resuelto
+Tiempo parcial: 1.191516 segundos
+
+ID: 17
+Resuelto
+Tiempo parcial: 2.672467 segundos
+
+ID: 18
+Resuelto
+Tiempo parcial: 2.443915 segundos
+
+ID: 19
+Resuelto
+Tiempo parcial: 1.140635 segundos
+
+ID: 20
+Resuelto
+Tiempo parcial: 1.206548 segundos
+
+ID: 21
+Resuelto
+Tiempo parcial: 1.276821 segundos
+
+ID: 22
+Resuelto
+Tiempo parcial: 0.865606 segundos
+
+ID: 23
+Resuelto
+Tiempo parcial: 1.287023 segundos
+
+ID: 24
+Resuelto
+Tiempo parcial: 1.258013 segundos
+
+ID: 25
+Resuelto
+Tiempo parcial: 0.732456 segundos
+
+ID: 26
+Resuelto
+Tiempo parcial: 1.210326 segundos
+
+ID: 27
+Resuelto
+Tiempo parcial: 0.998153 segundos
+
+ID: 28
+Resuelto
+Tiempo parcial: 0.976249 segundos
+
+ID: 29
+Resuelto
+Tiempo parcial: 1.805300 segundos
+
+ID: 30
+Resuelto
+Tiempo parcial: 1.704653 segundos
+
+Tiempo total: 43.335030 segundos

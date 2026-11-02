@@ -1,0 +1,134 @@
+
+ID: 1
+Resuelto
+Tiempo parcial: 2.453548 segundos (proceso 0)
+
+ID: 2
+Resuelto
+Tiempo parcial: 3.051991 segundos (proceso 1)
+
+ID: 3
+Resuelto
+Tiempo parcial: 4.734174 segundos (proceso 2)
+
+ID: 4
+Resuelto
+Tiempo parcial: 1.776050 segundos (proceso 3)
+
+ID: 5
+Resuelto
+Tiempo parcial: 2.051428 segundos (proceso 4)
+
+ID: 6
+Resuelto
+Tiempo parcial: 2.453178 segundos (proceso 5)
+
+ID: 7
+Resuelto
+Tiempo parcial: 1.295990 segundos (proceso 6)
+
+ID: 8
+Resuelto
+Tiempo parcial: 4.457331 segundos (proceso 7)
+
+ID: 9
+Resuelto
+Tiempo parcial: 1.701107 segundos (proceso 0)
+
+ID: 10
+Resuelto
+Tiempo parcial: 3.224976 segundos (proceso 1)
+
+ID: 11
+Resuelto
+Tiempo parcial: 1.750994 segundos (proceso 2)
+
+ID: 12
+Resuelto
+Tiempo parcial: 1.762026 segundos (proceso 3)
+
+ID: 13
+Resuelto
+Tiempo parcial: 1.385732 segundos (proceso 4)
+
+ID: 14
+Resuelto
+Tiempo parcial: 1.560938 segundos (proceso 5)
+
+ID: 15
+Resuelto
+Tiempo parcial: 2.140482 segundos (proceso 6)
+
+ID: 16
+Resuelto
+Tiempo parcial: 1.956080 segundos (proceso 7)
+
+ID: 17
+Resuelto
+Tiempo parcial: 4.398064 segundos (proceso 0)
+
+ID: 18
+Resuelto
+Tiempo parcial: 3.602051 segundos (proceso 1)
+
+ID: 19
+Resuelto
+Tiempo parcial: 1.865349 segundos (proceso 2)
+
+ID: 20
+Resuelto
+Tiempo parcial: 2.006695 segundos (proceso 3)
+
+ID: 21
+Resuelto
+Tiempo parcial: 2.084453 segundos (proceso 4)
+
+ID: 22
+Resuelto
+Tiempo parcial: 1.446297 segundos (proceso 5)
+
+ID: 23
+Resuelto
+Tiempo parcial: 2.106756 segundos (proceso 6)
+
+ID: 24
+Resuelto
+Tiempo parcial: 2.069629 segundos (proceso 7)
+
+ID: 25
+Resuelto
+Tiempo parcial: 0.940624 segundos (proceso 0)
+
+ID: 26
+Resuelto
+Tiempo parcial: 1.367136 segundos (proceso 1)
+
+ID: 27
+Resuelto
+Tiempo parcial: 1.317264 segundos (proceso 2)
+
+ID: 28
+Resuelto
+Tiempo parcial: 1.675194 segundos (proceso 3)
+
+ID: 29
+Resuelto
+Tiempo parcial: 2.922676 segundos (proceso 4)
+
+ID: 30
+Resuelto
+Tiempo parcial: 2.836906 segundos (proceso 5)
+
+Carga por proceso:
+  proceso 0: 9.493 s
+  proceso 1: 11.246 s
+  proceso 2: 9.668 s
+  proceso 3: 7.220 s
+  proceso 4: 8.444 s
+  proceso 5: 8.297 s
+  proceso 6: 5.543 s
+  proceso 7: 8.483 s
+
+IDs procesados: 30
+Procesos: 8
+Tiempo total (real): 11.249369 segundos
